@@ -1,0 +1,4 @@
+:HL["/chel-go-demo/_next/static/css/e946f71b2524c53e.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"Qq8SM2-LTlXan38V97ccT","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
